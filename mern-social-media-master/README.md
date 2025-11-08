@@ -4,6 +4,19 @@
 
 Arer Socio is a fullstack responsive MERN social media app with authentication, likes, dark mode, and more. Built using React, MongoDB, Express, Node.js, and Material UI.
 
-Video: https://www.youtube.com/watch?v=K8YELRmUb5o
+---
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+## Features
+- User authentication (register/login)
+- Create, like, and view posts
+- Add/remove friends
+- Responsive design with dark mode
+- Profile and feed pages
+
+## Tech Stack
+- React, Redux Toolkit, Material UI (frontend)
+- Node.js, Express, MongoDB, Mongoose (backend)
+
+---
+
+This project was created and maintained by Shreyas L. (arer-socio)
